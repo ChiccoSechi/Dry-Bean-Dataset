@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Machine Learning Project ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ## University of Cagliari - Applied Computer Science and Data Analytics course
 
 ## Index
